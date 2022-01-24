@@ -67,3 +67,10 @@
     <li>특별하게 연관성을 가지지 않고, 반복성을 가지고 호출되는 컴포넌트만 component 폴더에 정리되게 됩니다
     <p>앞으로 다루게 될 작은~중간 규모의 리엑트 프로젝트에서는 잘 보이지 않는 상황입니다.</p>
     </li>
+<br/>
+<br/>
+출처
+<ul>
+    <li><a href=https://en.reactjs.org/docs/faq-structure.html>File Structure</a></li>
+    <li><a href=https://smoh.tistory.com/385>5단계로 보는 리액트 폴더구조</a></li>
+</ul>
