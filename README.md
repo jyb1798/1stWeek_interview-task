@@ -1,6 +1,8 @@
 # 잘하조 면접준비 과제(경험을 정리하는 팀과제)
  
 저희 팀이 React 프로젝트 구조를 설계하고, CSS 방법론을 정하며 git commit 컨벤션을 결정하기 위해 조사한 내용을 정리하였습니다.
+<br/>(본문은 각 주제를 클릭하시면 펼쳐집니다!)
+
 <details>
 <summary>  <h2>[CRA Project Structure]</h2></summary>
 
