@@ -6,7 +6,6 @@
 <details>
 <summary>  <h2>[CRA Project Structure]</h2></summary>
 
-# [1] CRA Project Structure
 
 ## RCA(react-create-app) 혹은 React 프로젝트 구조를 설계하는 방법론
 
@@ -99,7 +98,6 @@
 <details>
 <summary><h2>[CSS 작성 방법]</h2></summary>
 
- # [2] CSS 작성 방법
 
 우리팀은 앞으로의 프로젝트에 있어서 CSS 작성 방법을 토론했고, CSS의 발전 과정과 각 단계의 장,단점을 살펴본 뒤 CSS iN JS 방식인 <b>`Styled Component`</b>를 선택하였습니다. CSS가 왜 발전하게 되었는지, 그 문제점이 무엇이었는지에 대해 중점을 뒀습니다.
 
@@ -225,8 +223,7 @@ CSS Module은 방대하고 많은 CSS 파일을 관리해야 하는 불편함이
 </details>
 <details>
 <summary>
-<h2>Commit Message</h2></summary>
-  # [3] Commit Message
+<h2>[Commit Message]</h2></summary>
 
 ## 깃 커밋 메세지 및 컨벤션 정리
 
